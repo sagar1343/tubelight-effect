@@ -21,7 +21,7 @@ export default {
         },
         liftText: {
           '0%': { transform: 'translateY(0px)', color: 'transparent' },
-          '100%': { transform: 'translateY(-170px)', color: 'white' },
+          '100%': { transform: 'translateY(-100px)', color: 'white' },
         }
       },
       animation: {
